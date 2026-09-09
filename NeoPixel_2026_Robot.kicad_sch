@@ -3148,6 +3148,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 43.18) (xy 140.97 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e60dcdc-815f-432b-9553-d729de41b003")
+	)
+	(wire
+		(pts
 			(xy 101.6 43.18) (xy 104.14 43.18)
 		)
 		(stroke
@@ -3185,16 +3195,6 @@
 			(type default)
 		)
 		(uuid "426cc38e-15db-4083-932f-919d8990e11f")
-	)
-	(wire
-		(pts
-			(xy 130.81 43.18) (xy 140.97 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "438dc480-e28a-4ada-8c9f-41dfc7fd63fb")
 	)
 	(wire
 		(pts
@@ -3545,16 +3545,6 @@
 			(type default)
 		)
 		(uuid "96e69dd2-45c5-45bb-af9e-b69761534633")
-	)
-	(wire
-		(pts
-			(xy 130.81 45.72) (xy 140.97 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a568b08-4e2a-4411-8652-a3c75d340d0f")
 	)
 	(wire
 		(pts
@@ -3968,6 +3958,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 45.72) (xy 140.97 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e830b32d-f8a5-49b4-8fef-a09edfa124ea")
+	)
+	(wire
+		(pts
 			(xy 81.28 38.1) (xy 69.85 38.1)
 		)
 		(stroke
@@ -4086,15 +4086,15 @@
 		)
 		(uuid "1da5583c-19c7-403f-9172-c6959c8ee67c")
 	)
-	(label "Sig1_OUT"
-		(at 130.81 50.8 0)
+	(label "Sig3_OUT"
+		(at 130.81 48.26 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "24d574f2-96fe-4b2e-bd0f-dfa0095078e4")
+		(uuid "2ebdf8f6-167d-41e5-99db-e9f748ba0eab")
 	)
 	(label "Sig4_OUT"
 		(at 81.28 113.03 180)
@@ -4105,16 +4105,6 @@
 			(justify right bottom)
 		)
 		(uuid "567333a9-3c3a-4523-bae7-e5057c76d7d5")
-	)
-	(label "Sig4_OUT"
-		(at 130.81 43.18 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5b931c93-3072-4419-b174-b5cfc4716e63")
 	)
 	(label "Pixcel1"
 		(at 187.96 31.75 0)
@@ -4156,6 +4146,16 @@
 		)
 		(uuid "7539fd3b-f478-49c2-bd56-b5a5d5407b5b")
 	)
+	(label "Sig1_OUT"
+		(at 130.81 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "79b9f3f1-ec87-4893-9989-521a2707774a")
+	)
 	(label "Sig1_IN"
 		(at 44.45 38.1 180)
 		(effects
@@ -4166,6 +4166,16 @@
 		)
 		(uuid "8028009c-b060-4ef1-89a4-752ea0c0fd0c")
 	)
+	(label "Sig2_OUT"
+		(at 130.81 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "825704ea-faa2-40cb-8970-b5802d4dd3e3")
+	)
 	(label "Sig3_OUT"
 		(at 81.28 87.63 180)
 		(effects
@@ -4175,26 +4185,6 @@
 			(justify right bottom)
 		)
 		(uuid "827ccbdb-c3be-44f6-a13b-aaa8f547216f")
-	)
-	(label "Sig3_OUT"
-		(at 130.81 45.72 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "87ae9471-b096-4244-8493-e4b1c3500987")
-	)
-	(label "Sig2_OUT"
-		(at 130.81 48.26 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9127848c-2766-4ea8-8fb0-a3a0e5aaa567")
 	)
 	(label "EM-sig"
 		(at 113.03 25.4 180)
@@ -4215,6 +4205,16 @@
 			(justify left bottom)
 		)
 		(uuid "b9a45517-51f5-4c7c-b7b6-930b6bebd512")
+	)
+	(label "Sig4_OUT"
+		(at 130.81 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c2f78333-de01-48f7-a10a-ccc4843336a3")
 	)
 	(label "Pixcel4"
 		(at 187.96 88.9 0)
