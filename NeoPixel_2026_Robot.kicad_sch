@@ -5506,7 +5506,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NeoPixcel_2026_Robot_Lib:PowerOnlyUSB_C"
+		(property "Footprint" "ProjectLib:PowerOnlyUSB_C"
 			(at 96.52 113.03 0)
 			(effects
 				(font
