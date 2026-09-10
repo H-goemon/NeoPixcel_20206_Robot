@@ -2760,6 +2760,16 @@
 		)
 		(uuid "d1ec580f-56d9-495b-8a6e-81e78664ac8c")
 	)
+	(text "↘部室にあるTHTはR2の規格"
+		(exclude_from_sim no)
+		(at 73.66 21.59 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ea50354f-da99-413f-9e33-6f0295ce0339")
+	)
 	(text "MCU(Arduino_Nano)"
 		(exclude_from_sim no)
 		(at 125.73 15.24 0)
